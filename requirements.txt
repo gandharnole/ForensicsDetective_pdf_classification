@@ -1,0 +1,27 @@
+# === PDF Generation ===
+python-docx
+reportlab
+pdfkit
+pdflatex
+pypdf2
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+# === Data Handling & Analysis ===
+pandas
+numpy
+tqdm
+
+# === Machine Learning ===
+scikit-learn
+xgboost
+
+# === Visualization ===
+matplotlib
+seaborn
+
+# === Utilities ===
+regex
+joblib
